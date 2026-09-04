@@ -10,4 +10,4 @@ Installation Guide:
 4. Execute the pipeline script to process raw JSON files, apply data harmonization, and store records in veritas:
    >python pipeline.py
 5. Run the Flask server to view operational metrics:
-  >python app.py
+   >python app.py
